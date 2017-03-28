@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: john.a.bonini@gmail.com
-  facebook: 
+  facebook: JohnBonini
   flickr:
-  github: @JohnBonini
-  instagram:
-  linkedin:
-  pinterest:
+  github: JohnBonini
+  instagram: JohnBonini
+  linkedin: JohnBonini
+  pinterest: JohnBonini
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: JohnBonini
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: JohnBonini
+  googleplus: +JohnBonini
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
